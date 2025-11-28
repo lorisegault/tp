@@ -39,3 +39,7 @@ Pour lançer le projet il faut utiliser les commandes suivantes :
 - `go run serv.go` -> pour lançer le serveur
 - `go run agent.go` -> pour lançer l'agent
 - `go run cli.go` -> pour lançer le client
+
+## Schéma du projet 
+
+![](schema.png)
